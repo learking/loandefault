@@ -1,0 +1,3 @@
+1. remove perfectly correlated variables
+2. how to deal with missing data?
+3. 

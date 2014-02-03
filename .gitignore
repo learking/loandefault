@@ -1,7 +1,10 @@
 # History files
 .Rhistory
+
+# Editor specific files
 .md~
 .swp
+.r~
 
 # Example code in package build process
 *-Ex.R
